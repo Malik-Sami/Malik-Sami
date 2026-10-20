@@ -10,6 +10,7 @@
 
 <br><br>
 
+[![Resume](https://img.shields.io/badge/Download_Resume-2DD4BF?style=for-the-badge&logo=readdotcv&logoColor=0F172A)](https://github.com/Malik-Sami/Malik-Sami/raw/main/Sami_Malik_Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-sami-855659315/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/samimalik12)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samiworkspace11@gmail.com)
@@ -148,6 +149,7 @@
 
 I'm open to Junior AI / ML / Automation Engineer roles and to collaborating on LLM, RAG and automation projects.
 
+[![Resume](https://img.shields.io/badge/Download_Resume-2DD4BF?style=for-the-badge&logo=readdotcv&logoColor=0F172A)](https://github.com/Malik-Sami/Malik-Sami/raw/main/Sami_Malik_Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-sami-855659315/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/samimalik12)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samiworkspace11@gmail.com)
