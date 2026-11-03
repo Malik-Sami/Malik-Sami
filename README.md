@@ -122,8 +122,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Malik-Sami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malik-Sami&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages">
+<img height="170" src="https://raw.githubusercontent.com/Malik-Sami/Malik-Sami/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats">
+<img height="170" src="https://raw.githubusercontent.com/Malik-Sami/Malik-Sami/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages">
 
 <img src="https://streak-stats.demolab.com?user=Malik-Sami&theme=tokyonight&hide_border=true" alt="GitHub streak">
 
